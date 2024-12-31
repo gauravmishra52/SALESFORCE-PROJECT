@@ -7,4 +7,5 @@ A CRM application tailored for engineering works incorporates features to manage
      4. Resource Allocation and Management
      5. Workflow Automation
      6. Compliance and Security
-These features collectively enable engineering firms to streamline their operations, improve client relationships, and drive efficiency across their projects.
+These features collectively enable engineering firms to streamline operations, improve client relationships, and drive project efficiency.
+Note--> I haven't any apex code and triggers ...in the last, I have worked on flows...
